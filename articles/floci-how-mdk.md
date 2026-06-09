@@ -3,7 +3,7 @@ title: "Terraform + lambroll で Floci 上に Lambda をデプロイしてみた
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["terraform","floci" ]
-published: false
+published: true
 ---
 
 # Terraform + lambroll で Floci 上に Lambda をデプロイしてみた
